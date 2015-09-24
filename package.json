@@ -1,0 +1,11 @@
+{
+  "name": "Renamer",
+  "version": "0.1",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "height": 300,
+    "width": 300,
+    "frame": true
+  }
+}
